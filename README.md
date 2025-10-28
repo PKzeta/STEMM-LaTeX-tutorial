@@ -1,2 +1,3 @@
-Zip files are overleaf files: download -> unzip -> upload to overleaf
-Pdf files for reference
+Zip files are Overleaf files: download -> unzip -> upload to Overleaf
+
+PDF files for reference
